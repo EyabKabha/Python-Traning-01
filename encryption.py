@@ -43,7 +43,8 @@ Random characters :
 after Encryption -->  [72, 83, 74, 84, 113, 79, 79, 80, 120, 78]
 after Decryption -->  H S J T q O O P x N
 -----------------------------
-Enter a sentence that you want to encrypted ariel
+Enter a sentence that you want to encrypted : 
+ariel
 -----------------------------
 after Encryption -->  [97, 114, 105, 101, 108]
 after Decryption -->  a r i e l
