@@ -13,7 +13,7 @@ def Encryption1():
 def Encryption2(mystr):
     result = []
     for i in mystr:
-          temp=ord(i)
+          temp=ord(i) # ord parse character to number of ASCII table 
           result.append(temp)
     print("after Encryption --> " , result)
     Decryption(result)
@@ -23,7 +23,7 @@ def Decryption(mystring):
     result2 = []
     for i in mystring:
           flag=int(i) 
-          flag=chr(i)
+          flag=chr(i) # chr parse from ASCII table to character
           result2.append(flag)
           
     print("after Decryption --> " , ' '.join(result2))
@@ -38,7 +38,7 @@ print("-----------------------------")
 """
 OUTPUT:
 _____________________________
-
+Random characters : 
 -----------------------------
 after Encryption -->  [72, 83, 74, 84, 113, 79, 79, 80, 120, 78]
 after Decryption -->  H S J T q O O P x N
