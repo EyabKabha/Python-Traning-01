@@ -119,10 +119,6 @@ while True:
 OUTPUT : 
 _______________________
 Welcome to Tic Tac Toe!
-Player 1 choose |X| or |O| : X
-Player 1 will go first.
-Are you ready to play? Enter Yes or No yes
-Welcome to Tic Tac Toe!
 Player 1 choose |X| or |O| : x
 Player 1 will go first.
 Are you ready to play? Enter Yes or No y
